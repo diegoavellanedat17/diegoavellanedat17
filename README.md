@@ -2,6 +2,10 @@
 
 ### Electronic Engineer | IoT solutions Engineer
 
+Fullstack developer :rocket: with experience developing hardware and software :computer: solutions for companies in the public and private sector. I have experience developing IoT-oriented projects using Linux, Python, NodeJS, SQL, Javascript, HTML, CSS, C, C++, Bash. I consider myself a person with a high level of analysis and leadership to solve problems and good teamwork. I am very interested in embedded systems, programming, 3D printing, and machine learning, for that reason I am pursuing my master's degree in IoT  :mortar_board: .
+
+
+
 <!--
 **diegoavellanedat17/diegoavellanedat17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
